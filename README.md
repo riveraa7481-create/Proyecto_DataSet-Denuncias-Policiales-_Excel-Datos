@@ -68,6 +68,11 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 
 Se desarrolló un dashboard interactivo que permite explorar las denuncias policiales registradas en el Perú entre enero de 2018 y julio de 2026, facilitando la consulta de indicadores, tendencias temporales, distribución geográfica y modalidades de denuncia.
 
+- Durante el período de enero de 2018 y julio de 2026, se registraron un total de 7,359,931 denuncias policiales en el Perú. El año 2023 presentó la mayor cantidad de denuncias registrando con el 14.20 %, que equivale  a 1,044,843 registros.
+<p align="center">
+  <img src="Img/Resultado/1_Evolución_Anual.PNG" width="70%" alt="Proyecto Denuncias Policiales">
+</p>
+
 ## Fuente de datos
 
 Portal oficial del Estado peruano: [Gob.pe](https://www.gob.pe/)
