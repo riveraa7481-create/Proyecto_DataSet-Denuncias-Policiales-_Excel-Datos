@@ -5,7 +5,7 @@
 
 Este proyecto tiene como objetivo realizar un análisis de las denuncias policiales registradas en el Perú durante el periodo de enero de 2018 a julio de 2026, utilizando herramientas de Microsoft Excel para la extracción, limpieza, transformación, modelado y visualización de datos.
 
-La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](https://www.gob.pe/), con la finalidad de organizar la información y desarrollar un análisis que permita explorar el comportamiento de las denuncias policiales a través del tiempo, su distribución geográfica y las diferentes modalidades registradas.
+La base de datos fue obtenida del portal oficial del Estado peruano https://www.datosabiertos.gob.pe/dataset/denuncias-policiales/resource/64c01d53-4402-4e5a-936a-4bce5b3d1008 , con la finalidad de organizar la información y desarrollar un análisis que permita explorar el comportamiento de las denuncias policiales a través del tiempo, su distribución geográfica y las diferentes modalidades registradas.
 
 ## Proceso de desarrollo
 
@@ -13,6 +13,10 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 - Búsqueda y descarga de la base de datos de denuncias policiales desde el portal oficial Gob.pe.
 - Revisión inicial de la estructura y contenido del conjunto de datos.
 - Preparación de la información para su posterior procesamiento.
+
+<p align="center">
+  <img src="Img/Fuente.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+</p>
 
 ### 2. Limpieza y transformación de datos – Power Query
 - Identificación y tratamiento de valores nulos e inconsistencias.
@@ -94,6 +98,6 @@ Se desarrolló un dashboard interactivo que permite explorar las denuncias polic
 
 ## Fuente de datos
 
-Portal oficial del Estado peruano: [Gob.pe](https://www.gob.pe/)
+Portal oficial del Estado peruano:https://www.datosabiertos.gob.pe/?query=Denuncias%20Policiales%20&sort_by=changed&sort_order=DESC
 
 **Periodo analizado:** Enero de 2018 – Julio de 2026.
