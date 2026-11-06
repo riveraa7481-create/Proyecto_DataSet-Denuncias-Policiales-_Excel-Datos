@@ -19,6 +19,10 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 - Estandarización de nombres y formatos de las columnas.
 - Transformación de tipos de datos.
 - Preparación y organización de las tablas para el modelado de datos.
+  
+<p align="center">
+  <img src="img/Power Query_Tablas.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+</p>
 
 ### 3. Modelado de datos – Esquema dimensional
 - Creación de tablas de dimensiones y una tabla de hechos.
