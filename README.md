@@ -21,7 +21,7 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 - Preparación y organización de las tablas para el modelado de datos.
   
 <p align="center">
-  <img src="img/Power Query_Tablas.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+  <img src="Img/Power%20Query_Tablas.PNG" width="100%" alt="Proyecto Denuncias Policiales">
 </p>
 
 ### 3. Modelado de datos – Esquema dimensional
