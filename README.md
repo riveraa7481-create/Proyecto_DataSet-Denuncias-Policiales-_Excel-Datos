@@ -28,11 +28,19 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 - Creación de tablas de dimensiones y una tabla de hechos.
 - Organización de la información mediante tablas relacionadas.
 - Preparación de una estructura basada en un modelo dimensional para facilitar las consultas y el análisis.
+  
+  <p align="center">
+  <img src="Img/Power%Query_tablas%Relacionada.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+</p>
 
 ### 4. Relaciones entre tablas – Power Pivot
 - Creación de relaciones entre la tabla de hechos y las tablas de dimensiones.
 - Implementación del modelo de datos para mantener la integridad de las relaciones.
 - Configuración de las conexiones necesarias para el análisis mediante tablas dinámicas.
+  
+  <p align="center">
+  <img src="Img/Power%Pivot_tablas%Relacionada.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+</p>
 
 ### 5. Cálculos y métricas – DAX
 - Creación de medidas y cálculos utilizando DAX.
@@ -43,6 +51,10 @@ La base de datos fue obtenida del portal oficial del Estado peruano [Gob.pe](htt
 - Creación de tablas dinámicas y gráficos dinámicos.
 - Incorporación de segmentadores para facilitar la exploración de la información.
 - Diseño de un dashboard interactivo para visualizar los principales indicadores y tendencias de las denuncias policiales.
+  
+   <p align="center">
+  <img src="Img/Dashboard.PNG" width="100%" alt="Proyecto Denuncias Policiales">
+</p>
 
 ## Herramientas utilizadas
 
