@@ -70,8 +70,27 @@ Se desarrolló un dashboard interactivo que permite explorar las denuncias polic
 
 - Durante el período de enero de 2018 y julio de 2026, se registraron un total de 7,359,931 denuncias policiales en el Perú. El año 2023 presentó la mayor cantidad de denuncias registrando con el 14.20 %, que equivale  a 1,044,843 registros.
 <p align="center">
-  <img src="Img/Resultado/1_Evolución_Anual.PNG" width="70%" alt="Proyecto Denuncias Policiales">
+  <img src="Img/Resultado/1_Evolución_Anual.PNG" width="90%" alt="Proyecto Denuncias Policiales">
 </p>
+- Durante el período comprendido entre enero de 2018 y julio de 2026, la modalidad de violencia contra la mujer e integrantes del grupo familiar representó el 29,20 % del total de denuncias registradas, posicionándose como la modalidad con mayor participación porcentual.
+<p align="center">
+  <img src="Img/Resultado/2_Modalidad.PNG" width="90%" alt="Proyecto Denuncias Policiales">
+</p>
+- Durante el período comprendido entre enero de 2018 y julio de 2026, Lima Metropolitana registró la mayor cantidad de denuncias policiales, con un total de 2.595.673 que representa 45.72% , posicionándose como la ubicación con mayor número de denuncias dentro del conjunto de datos analizado.
+<p align="center">
+  <img src="Img/Resultado/3_Departamento.PNG" width="90%" alt="Proyecto Denuncias Policiales">
+</p>
+- Este indicador muestra la variación porcentual anual de las denuncias policiales respecto al año anterior, permitiendo identificar los períodos de mayor incremento y disminución. El mayor incremento se registró en 2019, con un 10,34 %, mientras que la mayor reducción se observó en 2020, con un 24,06 %. 
+<p align="center">
+  <img src="Img/Resultado/4_VariacionPorcentual.PNG" width="90%" alt="Proyecto Denuncias Policiales">
+</p>
+- El tráfico ilícito de drogas y la tenencia de armas presentan el mayor porcentaje de casos atendidos por la Policía Nacional con un 91,2 %, mientras que los daños a la propiedad registran el menor procentaje con un 5,1 %.
+<p align="center">
+  <img src="Img/Resultado/5_CasosAtendidos.PNG" width="90%" alt="Proyecto Denuncias Policiales">
+</p>
+
+
+
 
 ## Fuente de datos
 
